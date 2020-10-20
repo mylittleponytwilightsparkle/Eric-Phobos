@@ -8,7 +8,7 @@ while True:
   feelings_list = []
   encouragement_list = []
   counter = 0
-  
+  #yayayayayayayayayay
   for each_word in list_of_words:
     
     if each_word == "sad":

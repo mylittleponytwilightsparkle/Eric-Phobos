@@ -1,3 +1,4 @@
+hi
 print("Title of program: Encouragement bot")
 print()
 while True:
